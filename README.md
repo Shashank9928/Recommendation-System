@@ -7,7 +7,7 @@ Recommendation-System
         - Contains the recommendation system with no pre user data.
 
         - In this used the IMDB Average weighted rating approach.
-        ![IMDB image](https://github.com/Shashank9928/Recommendation-System/blob/main/data/formula.png)
+![IMDB image](https://github.com/Shashank9928/Recommendation-System/blob/main/data/formula.png)
 
         - We recommend the movies based on more rating.
 
