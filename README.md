@@ -1,7 +1,7 @@
 Recommendation-System
 --
 
-> ### Average Weighted Recommendation System:
+> ### [Average Weighted Recommendation System:-](https://github.com/Shashank9928/Recommendation-System/blob/main/Simple_recommandation_system.ipynb)
 >
 >   - Contains the recommendation system with no pre user data.
 >
@@ -14,7 +14,7 @@ Recommendation-System
 >     
 
 
-> ### KNN-Recommendation System:-
+> ### [KNN-Recommendation System:-](https://github.com/Shashank9928/Recommendation-System/blob/main/KNNRecommendation.ipynb)
 >    
 >    - Based on User-Movie Interaction.
 >    
