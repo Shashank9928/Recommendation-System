@@ -8,8 +8,10 @@ Recommendation-System
 >   - In this used the IMDB Average weighted rating approach.
 ![IMDB image](https://github.com/Shashank9928/Recommendation-System/blob/main/data/formula.png)
 >
+>
 >   - We recommend the movies based on more rating.
-
+>
+>     
 
 
 > ### KNN-Recommendation System:-
